@@ -9,7 +9,7 @@ Write a Python Program to print factorial of a number recursively.
 3. If not, return n * num_fact(n - 1) to continue recursion.
 4. Read an integer input from the user. 
 5. Call the function with the input value and print the result.  
-
+ 
 ## Program:
 ```python
 /*
