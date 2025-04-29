@@ -14,8 +14,8 @@ Write a Python Program to print factorial of a number recursively.
 ```python
 /*
 Program to implement Reverse a String
-Developed by: Gokul J
-Register Number: 212222230038 
+Developed by: Gokularamanan K
+Register Number: 212222230040 
 */
 def num_fact(n):
     if n==0 or n==1:
