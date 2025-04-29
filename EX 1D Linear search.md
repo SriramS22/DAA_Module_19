@@ -13,7 +13,7 @@ To write a python program for a search function with parameter list name and the
 5. If no match is found after checking all elements, return False   
 
 ## Program:
-```
+```python
 /*
 Program to implement a search function with parameter list name and the value to be searched using string values.
 Developed by: Gokul J 
